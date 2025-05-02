@@ -45,7 +45,7 @@ function getBotResponse(input) {
     } else if (input === 'how are you?') {
         return 'I am just a bot, but I’m here to help! 😊';
     } else if (input === 'what is your name?') {
-        return 'I’m your friendly chatbot created by Nethra🛠️';
+        return 'I’m your friendly chatbot created by Kannan🛠️';
     } else if (input === 'bye') {
         return 'Goodbye! Have a wonderful day! ';
     } else if (input== 'what can you do?') {
